@@ -1,6 +1,8 @@
 ﻿# Azure Microservices [Work In Progress]
 
-This is a WIP project to demo microservices in .NET Core with Azure DevOps pipelines.
+This project demonstrates microservices in .NET Core with Azure DevOps pipelines.
+
+[TODO] architecture high level diagram
 
 ## Build
 
